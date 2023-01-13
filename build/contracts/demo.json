@@ -25,8 +25,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_number\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/demo.sol\":\"demo\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/demo.sol\":{\"keccak256\":\"0x07719e56b7f9da0f46eb756ab66d4d1360c9b8e4d9747181f99fe2557120ca44\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://72b9331e242e7164b27927fd5691c11c366e9a8ba104b24121dbfdb2b9d1bee1\",\"dweb:/ipfs/QmU5Jud6u82yCYXYr8HS7tWn76yHATJZN5pB5B1C8zoALK\"]}},\"version\":1}",
@@ -1020,8 +1019,7 @@
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2023-01-13T07:31:16.214Z",
-  "networkType": "ethereum",
+  "updatedAt": "2023-01-13T10:03:30.552Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
